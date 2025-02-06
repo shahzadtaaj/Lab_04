@@ -6,3 +6,10 @@ Console.WriteLine("Enter Your number 2");
 int num2=Convert.ToINT32(Console.ReadLie());
 sum=num1+num2;
 Console.WriteLine("Your Sum is: "+sum);
+
+Console.WriteLine("Enter Your number 1");
+int num3=Convert.ToINT32(Console.ReadLie());
+Console.WriteLine("Enter Your number 2");
+int num4=Convert.ToINT32(Console.ReadLie());
+subtract=num3+num4;
+Console.WriteLine("Your Subtraction is: "+subtraction);
