@@ -1,0 +1,8 @@
+using System;
+namespace program{
+Console.WriteLine("Enter Your number 1");
+int num1=Convert.ToINT32(Console.ReadLie());
+Console.WriteLine("Enter Your number 2");
+int num2=Convert.ToINT32(Console.ReadLie());
+sum=num1+num2;
+Console.WriteLine("Your Sum is: "+sum);
